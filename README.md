@@ -12,9 +12,9 @@
 
 After installing Electric Fence and Valgrind:
 
-To use **Electric Fence**: In command line, use the -lefence argument w/ the linker when compiling
-See: http://elinux.org/Electric_Fence
+To use **Electric Fence**: In command line, use the -lefence argument w/ the linker when compiling  
+See: http://elinux.org/Electric_Fence  
 
-To use Valgrind tools:
-  **Memcheck** -- After compiling, in terminal: valgrind ./filename --leak-check=yes
-  **Helgrind** -- After compiling, in terminal: valgrind --tool=helgrind ./filename
+To use Valgrind tools:  
+  **Memcheck** -- After compiling, in terminal: valgrind ./filename --leak-check=yes  
+  **Helgrind** -- After compiling, in terminal: valgrind --tool=helgrind ./filename  
