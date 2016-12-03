@@ -18,3 +18,4 @@ See: http://elinux.org/Electric_Fence
 To use Valgrind tools:  
   **Memcheck** -- After compiling, in terminal: valgrind ./filename --leak-check=yes  
   **Helgrind** -- After compiling, in terminal: valgrind --tool=helgrind ./filename  
+  See: http://valgrind.org/docs/manual/mc-manual.html and http://valgrind.org/docs/manual/hg-manual.html
