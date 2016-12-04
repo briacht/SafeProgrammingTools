@@ -2,6 +2,8 @@
 
 **accessFreedArray.c** contains an example of trying to access an array that has already been deallocated.
 
+**deadlock.c** contains an example of a deadlock.
+
 **memAlloc.c** contains an example of allocating and deallocating an array onto the heap (e.g. memory management).
 
 **memLeak.c** contains an example of a memory leak.
